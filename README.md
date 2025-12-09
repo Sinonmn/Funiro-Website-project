@@ -3,9 +3,9 @@
 
 **Live-Demo**: https://sinonmn.github.io/Funiro-Website-project (или твой Netlify/GitHub Pages линк)
 
-![](https://imgur.com/a/DG09Mae)  
+https://imgur.com/a/DG09Mae  
 *(Desktop-Version)*
-![](https://imgur.com/a/DAYJdG7)
+https://imgur.com/a/DAYJdG7
 *(Mobile-Version)*
 
 
