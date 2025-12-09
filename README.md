@@ -7,7 +7,6 @@ https://imgur.com/a/DG09Mae
 *(Desktop-Version)*
 
 https://imgur.com/a/DAYJdG7
-
 *(Mobile-Version)*
 
 
