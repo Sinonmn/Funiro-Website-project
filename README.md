@@ -3,10 +3,10 @@
 
 **Live-Demo**: https://sinonmn.github.io/Funiro-Website-project 
 
-https://imgur.com/a/DG09Mae  
+![](https://i.imgur.com/RKmaDES.png) 
 *(Desktop-Version)*
 
-![](https://drive.google.com/drive/u/0/home)  
+![](https://i.imgur.com/ndzBiIi.png)  
 *(Mobile-Version)*
 
 
